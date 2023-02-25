@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator Phase 1- j</string>
+    <string name="edit_text_number1"></string>
+    <string name="edit_text_number2"></string>
+    <string name="execute_button">Execute</string>
+    <string name="resultTextView"></string>
+</resources>
